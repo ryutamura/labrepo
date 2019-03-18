@@ -27,3 +27,5 @@ print 'This is a code'
 *italic letters*
 
 ***what will this be?***
+
+![images](/Users/rtamura/projects/labrepo/images/lease_history.jpg)
