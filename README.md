@@ -1,10 +1,10 @@
 # labrepo
 This is the title of labrepo
 
-##これは次の見出しです
+## これは次の見出しです
 ２つめの見出し
 
-###This is the third header
+### This is the third header
 ____
 Third header
 before indent  
