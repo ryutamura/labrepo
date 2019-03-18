@@ -28,4 +28,4 @@ print 'This is a code'
 
 ***what will this be?***
 
-![images](/Users/rtamura/projects/labrepo/images/lease_history.jpg)
+![images](images/lease_history.jpg?raw=true "Test image")
